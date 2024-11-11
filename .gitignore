@@ -1,0 +1,5 @@
+.env
+constants.py
+mac.env
+/myenv
+/__pycache__
